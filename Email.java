@@ -16,5 +16,6 @@ public class Email  {
          {
             System.out.println("email i:"+email);
          }
+         scanner.close();
     }
 }

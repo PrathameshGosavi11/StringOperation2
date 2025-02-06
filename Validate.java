@@ -20,5 +20,6 @@ public class Validate {
         {
             System.out.println("Login success");
         }
+        scanner.close();
     }
 }

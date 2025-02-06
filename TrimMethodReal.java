@@ -16,6 +16,7 @@ public class TrimMethodReal
         else{
             System.out.println("name is wrong please neter valid name");
         }
+        scanner.close();
     }
 
 }

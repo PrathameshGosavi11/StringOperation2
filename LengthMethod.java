@@ -17,5 +17,6 @@ public class LengthMethod {
         {
             System.out.println("password is valid and go to welcome page:");
         }
+        sc.close();
     }
 }
